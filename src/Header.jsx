@@ -5,7 +5,7 @@ function Header (props){
         <>
         <div className='all'>
             <div className='caja' >
-                <img src={props.imagen} style={{width: '400px'}}/>
+                <img src={props.imagen} style={{width: '410px'}}/>
                 </div>
                 <div className='cajaDos'>
                 <h1 style={{color: props.color}}> {props.text}</h1>

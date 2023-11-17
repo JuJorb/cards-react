@@ -11,7 +11,7 @@ function App() {
     <>
     <Header text="DESING PORTAFOLIO" lenguaje="HTML CSS" color="white" imagen={first}/>
     <Header text="E-LEARNING LANDING PAGE" lenguaje="HTML CSS" color="white" imagen={second}/>
-    <Header text="TODO WEB APP" lenguaje="HTML CSS JAVASCRIPT" color="white" imagen={third}/>
+    <Header text="TODO WEB APP" lenguaje="ADOBE PREMIERE" color="white" imagen={third}/>
     <Header text="ENTERTAINMETN WEB APP" lenguaje="HTML CSS JAVASCRIPT" color="white" imagen={fourd}/>
 
 {/*     <div className='card'>
