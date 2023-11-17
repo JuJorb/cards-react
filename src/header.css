@@ -1,0 +1,8 @@
+.miCard{
+    width: 300px;
+    background-color: antiquewhite;
+    border: 2px solid chocolate;
+    border-radius: 20px;
+    box-shadow: 2px 2px 3px #2e2e2e;
+    padding: 30px;
+}

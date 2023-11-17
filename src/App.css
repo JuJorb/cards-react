@@ -1,0 +1,60 @@
+.card{
+  margin-top: 150px;
+  margin-left: 800px;
+  border-radius: 10px;
+  width: 350px;
+  height: 630px;
+  background-color: #15273f;
+}
+
+.nft{
+  border-radius: 10px;
+  width: 310px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.txt{
+  margin-left: 20px;
+}
+
+.dos{
+  color: #00fff8;
+}
+
+.icon{
+  margin-right: 10px;
+}
+.part{
+  display: flex;
+  border-bottom: 1px solid #596f91;
+  margin: 0px 20px 0px 20px ;
+}
+
+.tres{
+  margin-left: 110px;
+  color: #596f91;
+}
+
+.avatar{
+  background: #ffffff;
+  border-radius: 100px;
+  width: 50px;
+}
+
+.cuatro{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-left: 20px;
+}
+
+.four{
+  align-items: center;
+  display: flex;
+}
+
+.cinco{
+  margin-left: 10px;
+  color: white;
+}
