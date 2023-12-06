@@ -1,8 +1,71 @@
-.miCard{
+.logo{
+    width: 150px;
+}
+
+#logo{
+    width: 150px;
+}
+
+#navbarNav{
+    font-size: 1.2rem;
+}
+
+#uno{
+    background-color: #83a2ec;
+}
+
+#header{
+    background-color: #6a86c6;
+}
+
+#bn{
+    font-size: 1.5rem;
+}
+
+.Comic{
+    background-color: #6a86c6;
+}
+
+#icono{
+    width: 90px;
+}
+
+#footer{
+    background-color: #6a86c6;
+}
+
+#btn{
+    width: 150px;
+}
+
+#btn:hover{
+    background-color: #6a86c6;
+}
+
+#dsc{
+    font-size: 1.5rem;
+}
+
+#cmcc{
+    font-size: 1.5rem;
+}
+
+#prs{
+    width: 150px;
+}
+
+#prs:hover{
+    background-color: #83a2ec;
+}
+
+.card-img-top{
     width: 300px;
-    background-color: antiquewhite;
-    border: 2px solid chocolate;
-    border-radius: 20px;
-    box-shadow: 2px 2px 3px #2e2e2e;
-    padding: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+#equipo{
+    text-align: left;
+    font-size: 1.2rem;
+    background-color: #83a2ec;
 }
